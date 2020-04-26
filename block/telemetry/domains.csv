@@ -12,7 +12,7 @@ dOMAIN,yESnO,gROUP,iSSUES,cOMMENT
 "a1621.g.akamai.net",,,,
 "a1856.g2.akamai.net",,,,
 "a1961.g.akamai.net",,,,
-"a248.e.akamai.net",x,,iTunes,makes iTunes download button disappear (#43)
+"a248.e.akamai.net",no,,iTunes,makes iTunes download button disappear (#43)
 "a978.i6g1.akamai.net",,,,
 "a.ads1.msn.com",,,,
 "a.ads2.msads.net",,,,
@@ -87,9 +87,9 @@ dOMAIN,yESnO,gROUP,iSSUES,cOMMENT
 "secure.flashtalking.com",,,,
 "services.wes.df.telemetry.microsoft.com",,,,
 "settings-sandbox.data.microsoft.com",,,,
-"settings-win.data.microsoft.com",x,,Windows Updates,may cause issues with Windows Updates
+"settings-win.data.microsoft.com",no,,Windows Updates,may cause issues with Windows Updates
 "sls.update.microsoft.com.akadns.net",,,,
-"sls.update.microsoft.com.nsatc.net",x,,Windows Updates,may cause issues with Windows Updates
+"sls.update.microsoft.com.nsatc.net",no,,Windows Updates,may cause issues with Windows Updates
 "sqm.df.telemetry.microsoft.com",,,,
 "sqm.telemetry.microsoft.com",,,,
 "sqm.telemetry.microsoft.com.nsatc.net",,,,
@@ -121,9 +121,9 @@ dOMAIN,yESnO,gROUP,iSSUES,cOMMENT
 "www.go.microsoft.akadns.net",,,,
 "www.msftncsi.com",,,,
 "client.wns.windows.com",,,,
-"wdcp.microsoft.com",x,,Windows Defender,may cause issues with Windows Defender Cloud-based protection
-"dns.msftncsi.com",x,,Internet,This causes Windows to think it doesn't have internet
-"storeedgefd.dsx.mp.microsoft.com",x,,Windows Store,breaks Windows Store
+"wdcp.microsoft.com",no,,Windows Defender,may cause issues with Windows Defender Cloud-based protection
+"dns.msftncsi.com",no,,Internet,This causes Windows to think it doesn't have internet
+"storeedgefd.dsx.mp.microsoft.com",no,,Windows Store,breaks Windows Store
 "wdcpalt.microsoft.com",,,,
 "settings-ssl.xboxlive.com",,,,
 "settings-ssl.xboxlive.com-c.edgekey.net",,,,
@@ -133,16 +133,16 @@ dOMAIN,yESnO,gROUP,iSSUES,cOMMENT
 "insiderservice.trafficmanager.net",,,,
 "e3843.g.akamaiedge.net",,,,
 "flightingserviceweurope.cloudapp.net",,,,
-"sls.update.microsoft.com",x,,Windows Updates,may cause issues with Windows Updates
+"sls.update.microsoft.com",no,,Windows Updates,may cause issues with Windows Updates
 "static.ads-twitter.com",,,Twitter,may cause issues with Twitter login
 "www-google-analytics.l.google.com",,,,
 "p.static.ads-twitter.com",,,Twitter,may cause issues with Twitter login
 "hubspot.net.edge.net",,,,
 "e9483.a.akamaiedge.net",,,,
-"www.google-analytics.com",x,,,
-"padgead2.googlesyndication.com",x,,,
-"mirror1.malwaredomains.com",x,,,
-"mirror.cedia.org.ec",x,,,
+"www.google-analytics.com",no,,,
+"padgead2.googlesyndication.com",no,,,
+"mirror1.malwaredomains.com",no,,,
+"mirror.cedia.org.ec",no,,,
 "stats.g.doubleclick.net",,,,
 "stats.l.doubleclick.net",,,,
 "adservice.google.de",,,,
@@ -163,9 +163,9 @@ dOMAIN,yESnO,gROUP,iSSUES,cOMMENT
 "watson.telemetry.microsoft.com.nsatc.net",,Xtra,,
 "wes.df.telemetry.microsoft.com",,Xtra,,
 "m.hotmail.com",,Xtra,,
-"apps.skype.com",x,,Skype,can cause issues with Skype (#79) or other services (#171)
-"c.msn.com",,,,
-"login.live.com",x,,Outlook,prevents login to outlook and other live apps
-"pricelist.skype.com",,,,
-"s.gateway.messenger.live.com",,,,
-"ui.skype.com",,,,
+"apps.skype.com",no,,Skype,can cause issues with Skype (#79) or other services (#171)
+"c.msn.com",,,MSN,
+"login.live.com",no,,Outlook,prevents login to outlook and other live apps
+"pricelist.skype.com",,,Skype,
+"s.gateway.messenger.live.com",,,Live,
+"ui.skype.com",,,Skype,
